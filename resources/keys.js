@@ -1,1 +1,1 @@
- export const apiKey = "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"
+ export const apiKey = "openaikey"
